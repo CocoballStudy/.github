@@ -1,12 +1,37 @@
-## Hi there 👋
+## Cocoball Study🍪
 
-<!--
+> **🐹알고리즘스터디**  _ [📁Algorithm-Study](https://github.com/CocoballStudy/Algorithm-Study)
 
-**Here are some ideas to get you started:**
+> **🐯CS스터디** _ [📁CS-Study](https://github.com/CocoballStudy/CS-Study)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### 스터디 방식📝
+
+**알고리즘 스터디와 CS 스터디 동시 진행**
+
+- 1주차(오프라인)
+    - 과제[코테] 알고리즘 1개씩 마크다운 업로드 + part2 기본문제들 + 심화문제(3개이상) 회의 CS 한 개씩 공부 + 마크다운 업로드
+    - 회의 사다리타기해서 한 명이 개념 발표 + 코드 리뷰 CS 각자 1개씩 발표
+- 2주차(오프라인오프라인)
+    - 과제 : 관련된 심화문제 3개(백준, 프로그래머스) + 코드 리뷰
+    - 회의 : CS공부
+- 2주 뒤에 도입! - 벌칙딱지!!! 한 달 안에 제일 많이 모인 사람이 벌칙!!
+
+🐰만나기 전에
+- 만나는 날 d-1 : 코드리뷰
+- 만나는 날 d-2 : 문제 꼭 다 풀기
+
+😈코드리뷰
+- 깃허브에 서로의 코드에 대해 코드리뷰 남기기
+- (자세한 진행방식 정해지는대로 추가로 작성)
+
+🧑🏻‍💻개념발표
+- 개념정리는 각자 모두 정리하기
+- 단, ppt 금지! 마크다운이나 노션으로 정리 권장 (블로그 링크 가능)
+- 스터디 당일날 사다리타기해서 발표자 정하기
+
+
+📌코코볼규칙
+- 자랑하고 생색내기 (느슨해지지 않게 서로 상황 공유)
+
+허얼 넘 신기
